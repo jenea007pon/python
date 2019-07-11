@@ -98,4 +98,3 @@ if re.findall(pattern, some_str) is None:
 else:
     print("В тексте найдено более двух точек подряд")
 
-
